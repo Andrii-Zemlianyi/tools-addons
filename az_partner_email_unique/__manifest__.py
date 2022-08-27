@@ -6,6 +6,7 @@
     "version": "15.0.1.0.0",
     "category": "Customer Relationship Management",
     "website": "https://yava.net.ua",
+    "images": ['static/images/banner.png'],
     "author": "Andrii Zemlianyi",
     "license": "AGPL-3",
     "application": True,
